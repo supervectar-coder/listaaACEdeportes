@@ -117,6 +117,10 @@ acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 2 (1RFEF)" group-title="1RFEF", Canal 2 (1RFEF) (SOLO EVENTOS) --> NEW ERA V
 acestream://8677d339ecddd75165c0015025f598b6215974cf
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="1RFEF", RFEF TV FHDp --> ELCANO
+acestream://177796041773be99b489dd3ce86144f243e7355f
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="1RFEF", RFEF TV FHDp --> ELCANO
+acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey" group-title="COPADELREY", COPA DEL REY --> NEW ERA
 acestream://4b9f813f30b4345fe555f9e218d828d76cd6ee88
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey" group-title="COPADELREY", COPA DEL REY --> NEW ERA
