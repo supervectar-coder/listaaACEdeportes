@@ -207,6 +207,10 @@ acestream://176f0b8565a161f87c81a4a250463e3eaf678fb5
 acestream://8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="" group-title="DAZNEVENTOS", DAZN EVENTOS 3 --> NEW ERA
 acestream://4b048bcfaed7daec454e88f0e29b56756300447d
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="DAZNACB", ACB EVENTO 01 ** --> ELCANO
+acestream://53962d7fb865aff73b34a3afb2905cd492f60d75
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="DAZNACB", ACB EVENTO 02 ** --> ELCANO
+acestream://22b702984a0db43fd371c30e2df150b2336551cd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+DEPORTES", MOVISTAR DEPORTES --> ELCANO
 acestream://6e031aed136bf97d8667fcd5fc49c73256928281
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+DEPORTES", MOVISTAR DEPORTES --> ELCANO
